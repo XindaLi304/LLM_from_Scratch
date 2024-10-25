@@ -5,4 +5,8 @@
    
    objective: information summarization-classifying the review of movie viewers.  
    
-   dataset used to finetune: IMDBDataset  
+   dataset used to finetune: IMDBDataset
+
+   
+TODO:
+RLHF
