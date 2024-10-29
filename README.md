@@ -10,3 +10,7 @@
    
 TODO:
 RLHF
+training: Pytorch FSDP
+inferring: vllm
+
+
