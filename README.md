@@ -8,9 +8,9 @@
    dataset used to finetune: IMDBDataset
 
    
-TODO:
-RLHF
-training: Pytorch FSDP
-inferring: vllm
+   TODO:  
+   RLHF  
+   training: Pytorch FSDP  
+   inferring: vllm  
 
 
